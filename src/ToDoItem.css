@@ -1,0 +1,27 @@
+hr {
+    background-color: dimgrey;
+    border: solid 1px dimgrey;
+    height: 1px;
+}
+
+.toDo-item {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.toDo-action {
+    font-size: 30px;
+    padding-left: 15px;
+}
+
+.toDo-Row {
+    width: 100%;
+}
+.toDo-delete {
+    margin: 0 auto;
+    right: 500px;
+    cursor: pointer;
+    position: absolute;
+}

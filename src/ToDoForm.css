@@ -1,0 +1,19 @@
+form {
+	border: thin solid #ddd;
+  background-color: #fbfbfb;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  width: 50%;
+}
+
+.toDo-input {
+  height: 40px;
+  font-size: 20px;
+  width: 80%;
+}
+
+.add-button {
+  width: 20%;
+  font-size: 20px;
+}
